@@ -1,0 +1,10 @@
+^C:\USERS\USER\SOURCE\REPOS\POLINOM\SLN\CMAKEFILES\10344D6F22F529A5B5BC97587E6665AF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/User/source/repos/Polinom -BC:/Users/User/source/repos/Polinom/sln --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/User/source/repos/Polinom/sln/Polinom.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

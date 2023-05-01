@@ -1,0 +1,6 @@
+C:/Users/User/source/repos/Polinom/sln/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/source/repos/Polinom/sln/CMakeFiles/ZERO_CHECK.dir
+C:/Users/User/source/repos/Polinom/sln/mylibrary/CMakeFiles/mylibrary.dir
+C:/Users/User/source/repos/Polinom/sln/Polinom/CMakeFiles/main.dir
+C:/Users/User/source/repos/Polinom/sln/gtest/CMakeFiles/gtest.dir
+C:/Users/User/source/repos/Polinom/sln/test/CMakeFiles/test.dir

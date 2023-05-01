@@ -1,0 +1,3 @@
+﻿  Polinom.cpp
+C:\Users\User\source\repos\Polinom\mylibrary\Polinom.h(109): warning C4715: operator<<: значение возвращается не при всех путях выполнения
+  mylibrary.vcxproj -> C:\Users\User\source\repos\Polinom\sln\mylibrary\Debug\mylibrary.lib

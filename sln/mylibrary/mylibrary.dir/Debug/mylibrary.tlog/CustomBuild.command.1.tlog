@@ -1,0 +1,10 @@
+^C:\USERS\USER\SOURCE\REPOS\POLINOM\MYLIBRARY\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/User/source/repos/Polinom -BC:/Users/User/source/repos/Polinom/sln --check-stamp-file C:/Users/User/source/repos/Polinom/sln/mylibrary/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

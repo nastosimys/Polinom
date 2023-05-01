@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\User\source\repos\Polinom\Polinom\Polinom.h(79,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Polinom\Polinom\Polinom.h(92,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Polinom.cpp
+C:\Users\User\source\repos\Polinom\Polinom\Polinom.h(79,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Polinom\Polinom\Polinom.h(92,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Polinom.vcxproj -> C:\Users\User\source\repos\Polinom\x64\Debug\Polinom.exe
